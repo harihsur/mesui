@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mesbackend-dev-222521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::794385572658:role/amplify-mesbackend-dev-222521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::794385572658:role/amplify-mesbackend-dev-222521-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-mesbackend-dev-222521-deployment",
+      "UnauthRoleName": "amplify-mesbackend-dev-222521-unauthRole",
+      "StackName": "amplify-mesbackend-dev-222521",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:794385572658:stack/amplify-mesbackend-dev-222521/d25b9b80-4abf-11eb-9547-0aad4554b6ea",
+      "AmplifyAppId": "dfysd80euycz6"
+    },
+    "categories": {
+      "auth": {
+        "mesbackendfa4954aa": {}
+      }
+    }
+  }
+}
